@@ -1,5 +1,5 @@
 {
-    "name": "pxt-DFRobot_mini_control_module",
+    "name": "mini_control_module",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -12,6 +12,7 @@
         "main.ts",
         "README.md",
         "custom.ts",
+        "_locales/zh-cn/mini_control_module-strings.json",
         "i2c.cpp",
         "shims.d.ts",
         "enums.d.ts"
