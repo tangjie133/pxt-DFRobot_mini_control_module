@@ -1,5 +1,5 @@
 // Auto-generated. Do not edit.
-declare namespace i2c {
+declare namespace minii2c {
 }
 
 // Auto-generated. Do not edit. Really.
