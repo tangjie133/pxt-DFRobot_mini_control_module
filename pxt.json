@@ -11,7 +11,9 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "i2c.cpp"
+        "i2c.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
