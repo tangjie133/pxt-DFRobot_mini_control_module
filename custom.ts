@@ -33,7 +33,7 @@ namespace custom {
      /**
      * TODO: 初始化I2C
      */
-     //% block="init equipment"
+     //% block="init I2C"
     export function initEquipment():void{
         init();
     }

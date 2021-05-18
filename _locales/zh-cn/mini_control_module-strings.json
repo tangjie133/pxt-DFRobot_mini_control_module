@@ -1,13 +1,13 @@
 {
     "custom.getButtonData|block":"获取 %button 数据",
     "custom.getButtonStatic|block":"获取 %button 状态",
-    "custom.initEquipment|block":"初始化设备",
+    "custom.initEquipment|block":"I2C初始化",
     "MyEnum.ButtonA|block":"按键A",
     "MyEnum.ButtonB|block": "按键B",
     "MyEnum.ButtonC|block": "按键C",
     "MyEnum.ButtonD|block": "按键D",
-    "MyEnum1.ButtonX|block": "按键X",
-    "MyEnum1.ButtonY|block": "按键Y",
+    "MyEnum1.ButtonX|block": "摇杆X",
+    "MyEnum1.ButtonY|block": "摇杆Y",
     "custom|block":"迷你手柄"
     
     
