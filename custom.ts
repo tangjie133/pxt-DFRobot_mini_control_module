@@ -49,13 +49,13 @@ namespace custom {
         let data = pins.i2cReadNumber(addrI2C, NumberFormat.Int8LE);
         let buttonStatic;
         switch (button){
-            case MyEnum.ButtonA:
+            case MyEnum.ButtonC:
                 buttonStatic= data&0x01;
             break;
-            case MyEnum.ButtonB:
+            case MyEnum.ButtonA:
                 buttonStatic= (data&0x02)>>1;
             break;
-            case MyEnum.ButtonC:
+            case MyEnum.ButtonB:
                 buttonStatic= (data&0x04)>>2;
             break;
             default:
